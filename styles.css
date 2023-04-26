@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+div
+{
+    position: relative;
+    background-color: lightblue;
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    margin-top: 10%;
+    margin-left: 40%;
+    text-align: center;
+}
+
+h1
+{
+    position: relative;
+    top: 35%;
+    color: purple;
+}
